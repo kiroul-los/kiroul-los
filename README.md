@@ -9,7 +9,7 @@ I am currently exploring **JavaScript (ES6+)**, **React.js**, and **Node.js** to
 💻 **Languages & Frameworks:**
 - **PHP**, **JavaScript (ES6+)**, **C#**
 - **HTML5**, **CSS3**, **Bootstrap**
-- **Laravel**, **Node.js** (Basic), **React.js** (Basic)
+- **Laravel**, **Node.js** (Basic), **React.js**
   
 📚 **Database Management:**
 - **MySQL**, **SQL queries**
